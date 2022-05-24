@@ -32,4 +32,4 @@ elif month in ("April", "June", "September", "November"):
 elif month == "February":
   print ("28 or 29")
 else: 
-  print ("That is not a month, check your spelling, and type again!"
+  print ("That is not a month of the year, check your spelling, and type again!"
